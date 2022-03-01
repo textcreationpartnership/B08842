@@ -1,0 +1,142 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A briefe description by way of supposition holding forth to the Parliament and such as have but common reason, wherein a true Common-Wealth consisteth as also the grand enemies of this Common-Wealth plainly discovered.</title>
+            <author>Cotton, Priscilla, Mrs.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08842</idno>
+            <idno type="STC">Wing C6473B</idno>
+            <idno type="STC">ESTC R174284</idno>
+            <idno type="EEBO-CITATION">62369131</idno>
+            <idno type="OCLC">ocm 62369131</idno>
+            <idno type="VID">187854</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08842)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187854)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2847:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A briefe description by way of supposition holding forth to the Parliament and such as have but common reason, wherein a true Common-Wealth consisteth as also the grand enemies of this Common-Wealth plainly discovered.</title>
+                  <author>Cotton, Priscilla, Mrs.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Mrs. Priscilla Cotton.  Cf. Wing (2nd ed.).</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1649-1660.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:187854:1"/>
+            <pb facs="tcp:187854:1"/>
+            <pb facs="tcp:187854:2"/>
+            <pb n="1" facs="tcp:187854:2"/>
+            <head>A Briefe Deſcription by way of ſuppoſition hold<g ref="char:EOLhyphen"/>ing forth to the Parliament and ſuch as have but com<g ref="char:EOLhyphen"/>mon reaſon, wherein a true Common-wealth conſiſt<g ref="char:EOLhyphen"/>eth: as alſo the grand enemies of this Common-wealth plainly diſcovered.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Uppoſe that ten or twelve ſorts of people (being of ſeverall opinions) are all together willing to inhabit a fruitfull Iſland, yet before they reſolve to plant or build, they judge it neceſſary to have one of the wiſeſt of them to be their Magiſtrate or chiefe overſeer, with ſo many ſervants as the time re<g ref="char:EOLhyphen"/>quires, not only to keep the people in order, but alſo to be in a poſture of defence, againſt all enemies whatſoever, maintaining the ſame (for their ſervice to the Common-wealth) out of the Common ſtocke. After this; all perſons that are of one and the ſame opinion are gathering themſelves (as members belonging to one body) toge<g ref="char:EOLhyphen"/>ther making up when they are ſeperated, the number of ten or twelve different Congregations, every one providing maintenance for his own Miniſters, and the Magiſtrate ſtanding unmovable (as a center) be<g ref="char:EOLhyphen"/>tween them all, to keep the ballance in the Government, that one ſect may not domineer over the other. If he (to wit the Magiſtrate) joyne himſelfe (as a member) to one particular Congregation he hath his liberty to honour the ſame, with his preſence, with his tongue, with his pen, and with his own money: but not with the ſword or money of the Common-wealth, for he is in regard of his Office to be conſidered not as a perticular but as a generall perſon ſtanding for the good of all: juſt as it is with a Treaſurer, who is intruſted with a ſumme of money to imploy the ſame not for his own, or any ones private advantage in particular, but for the benefit of all thoſe that have intruſted him. This now (when there are made Hoſpitalls for the poor; work-houſes for the idle and evill perſons; as alſo generall meeting places for the diſpelling of errors) is a true and perfect Common-wealth, without
+<pb n="2" facs="tcp:187854:3"/>calling the Miniſters of one particular ſect nationall Miniſters. Till Sathan appearing (in his ſervants) as an Angell of light, doth bewitch and overcome the Magiſtrate which commonly happens in this follow<g ref="char:EOLhyphen"/>ing manner: The Miniſters of every ſect, having their own meetings among themſelves, are labouring and ſtriving (ſome to a good, and o<g ref="char:EOLhyphen"/>thers to an evill end) to bring the greateſt number of perſons under their juriſdiction: the evill minded looſing their cuſtomers, and ſo their maintenance by the encreaſe of others, the truth having moſt power, are conſulting together, in what manner to gaine the Favour and Aſſiſtance of the Magiſtrate. Appearing before him with flattering ad<g ref="char:EOLhyphen"/>dreſſes and fair pretences calling him the moſt noble, moſt excellent, and moſt ſerene, &amp;c. Telling him that they have a great inclination and deſire to his continuance in the government. Thus having made their firſt entrance they proceed and goe on (to compliſh their deſign) inſinuating him that there is a certain ſort of people under his govern<g ref="char:EOLhyphen"/>ment that very much increaſe being (as they call it) of dangerous principles, becauſe they are oppoſite to them: warning him with great earneſtneſſe to take ſpeciall notice of them, with this concluſion, if he doe not ſuppreſſe them (to hinder their increaſe) that he is in danger to looſe his government. The Magiſtrate not perceiving that the old Serpent is hidden under theſe fair pretences, nor diſcerning the wolves in ſheeps cloathing, is moved and reſolved to reward them for all their pretended care and kindneſſe manifeſted to him, allowing them main<g ref="char:EOLhyphen"/>tenance, not of his own but of the Common-wealths money, which be<g ref="char:EOLhyphen"/>longeth not to him; much leſſe to them, they then being made parta<g ref="char:EOLhyphen"/>kers of the money unjuſtly taken of the Common-wealth, are in feare that the honeſt people of the other Congregations (perceiving theſe contrivings) will diſcover their wickedneſſe and deceit. Whereupon they preſently reſolve to extoll the Magiſtrate in the publique meeting places, calling him a very good and religious Magiſtrate becauſe he is good to them, the Common people ſeeing the great union and fami<g ref="char:EOLhyphen"/>liarity between the Magiſtrate, and thoſe Miniſters, are commonly inclined to fall in with their affections, where the magiſtrate is affected, becauſe they ſeek favour and offices by him; wherein the Miniſters are very ſerviceable to advance their own Diſciples before others in the government, that ſo their kingdome (their children being brought up to the ſame trade) may ſtand upon a more ſure foundation then heretofore, giving out by the mouth of their followers that the intereſt of the Magiſtrate lyeth in them, the Magiſtrate perceiving that not only
+<pb n="3" facs="tcp:187854:3"/>many of his Officers, but alſo the generallity of the Common-people agree with thoſe Miniſters, is eaſily perſwaded to beleeve that his inte<g ref="char:EOLhyphen"/>reſt lyeth in them, being now afraid to diſpleaſe thoſe cunning ſophiſters who by their ſubtilty have brought him by degrees under their own power, being no more (as heretofore) a ſervant of the Common-wealth but a ſervant of one particular ſect which are preparing his heart for perſecution, by ſlandring and branding as hereticks and blaſphemers, thoſe that differ from them in opinion, to render them odious in the ſight of the Magiſtrate, perſwading him to abuſe the Sword and power of the Common-wealth, by the perſecution of ſuch as in matters of re<g ref="char:EOLhyphen"/>ligion live according to their own light and underſtanding blameleſſe and without offence, till the long ſuffering of God, towards that hypo<g ref="char:EOLhyphen"/>criticall generation is come to an end, as wofull experience hath made manifeſt here in England, in the bringing down of the King and Biſhops, what will become of the little-Biſhops, and of them that ſtrengthen their hands (by forcing the people to give tythes to them) the Lord knowes; the Whore (and her Daughters) have made drunk the kings and Rulers of the earth, with their cup of fornication, yet I hope that once the ſword of juſtice, ſhall cut off the coard wherewith the Mini<g ref="char:EOLhyphen"/>ſters and Magiſtrates are tyed, that ſo all ſects (in theſe Nations) be<g ref="char:EOLhyphen"/>ing brought to the enjoyment of equall priviledges, the great worke of God (which hath been obſtructed) may be carried on againe, in more truth and power then before, to the convincing of all Antichriſtian do<g ref="char:EOLhyphen"/>minions, and eſpecially <hi>New-England,</hi> where the Magiſtrates (being deceived by the Clergy) are become the greateſt perſecutors of all thoſe that profeſſe themſelves to be of the reformed proteſtant religi<g ref="char:EOLhyphen"/>on, preſcribing and impoſing of their own rules and formes, upon the people for their own ends, inflicting puniſhment upon ſuch whoſe con<g ref="char:EOLhyphen"/>ſciences cannot indure to pay tythes or taxes, to hold up their enemies (in ſpirituall matters) againſt themſelves this now being unreaſonable, and contrary to criſtianity, then equity requires, that, that law (where<g ref="char:EOLhyphen"/>by the people are forced to pay tythes to Miniſters) ought without delay to be aboliſhed, for we have no reaſon to expect a peacable Go<g ref="char:EOLhyphen"/>vernment, whileſt the Magiſtrate as Magiſtrate continues, to favour (with the ſword or money of the Common-wealth) any ſect or perſon in particuler, being the chiefe cauſe, not only of partiality and ſtrife in cities and countryes, but alſo oftentimes of warre and horrible blood<g ref="char:EOLhyphen"/>ſheddings which will certainly be revenged in this life, or in the life to come, upon ſuch as have not prevented theſe miſchiefes according to the power and opportunity which was left or given in their hands.</p>
+            <pb n="4" facs="tcp:187854:4"/>
+            <p n="1">1. Leave the miniſters to be provided for, by their own people that imploy them, and if by this means any that are now miniſters ſhall become deſtitude; let ſome courſe be taken to ſupply them during the time of their lives: but no incouragement for any others in time to come to make a trade or merchandize of the things of God.</p>
+            <p n="2">2. Expell out of the Schooles called Univerſities, the humane formes of religion, that they may be Univerſities indeed.</p>
+            <p n="3">3. Erect Schools of learning in all Cityes and market Towns or other convenient places, throughout theſe nations; to inſtruct every one as wel poor as rich that have a deſire to learn Arts and Sciences to anſwer the ends of nature for the Common good, for in ſpiritual matters the revealed will of God is only our rule.</p>
+            <p n="4">4. If it were the magiſtrates work to ſet up nationall miniſters according to their own underſtanding, then we ſhould be in danger to have as many religions as there be ſeverall wayes of Government in the world, and the magiſtrates changing their opi<g ref="char:EOLhyphen"/>nion, the whole national miniſtry muſt alſo as often be changed, whereby it comes to paſſe, that the peoples fear towards God is taught by the precepts of men, which makes their worſhip in vain, and deſtroyeth (as much as in them lyeth) their ſoules.</p>
+            <p n="5">5. If you accept of any form beſides the holy Scripture, &amp; ſet up a national miniſtry according to that form, then will that ſhamefull reproach remain, that the magiſtrates and miniſters in England have brought down the King and Biſhops rather to ſucceed in their places, then to bring the people to liberty and happineſſe, for the Lord alone will preſcribe both Lawes and Rules for his people to walke in; and the ma<g ref="char:EOLhyphen"/>giſtrates are to incourage and preſerve them, in all countryes againſt evil doers.</p>
+            <p n="6">6. Make a true diſtinction between <hi>England</hi> and all Antichriſtian Dominions; by bringing the holy Scripture in the publick meeting places (inſtead of the Popes, Luthers, Calvins, or other doctrins) upon the Throne; that ſo Chriſt alone may be exalted, giving liberty after the reading of the ſame to every one in an orderly way to declare his own mind and underſtanding, even as it was among the Jewes, <hi>Acts</hi> 13. excluding only ſuch who are not willing to ſtay their turne, till they are better diſpoſed without oppreſſing them by impriſonment, or otherwiſe, continually obſerving that no preheminence or ſole priviledge be granted to any of offering any thing or of ſpeaking firſt, that ſo every one being at liberty and unhindred, may bring forth that, which is moſt conducing to the Common welfare, all of them fitting ſtill in ſilence ſo long afte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the reading of the Scripture, till any one think it fit in his judicious &amp; humble mind to propoſe ſomwhat, for mutual edification, endeavouring withall to make his diſcourſe ſhort; that another may have his time likewiſe, contrary to the cuſtome of the common Teachers, who only or ſolely ſpeaking doe lengthen their diſcourſe to the wearineſſe of their auditory; for which end the moderators (who ought to be meek and underſtanding men) are to obſerve that there be due order kept.</p>
+            <p>And for as much as the Lord hath eminently appeared in theſe Nations to make the people inſtrumentall for a general work; ſounding an alarm to the nations about it, that the powers of the earth that preſume to give edicts in matters of religion (and thereby making themſelves as a beaſt for the whore to Ride upon <hi>&amp;c.</hi>) muſt fall in the day when God begins to ariſe to redeem his people from all Anti<g ref="char:EOLhyphen"/>chriſtian powers, therefore it is good for magiſtrates never to ſet up or meddle with any particular form or miniſtery compoſed and ordained by the will and power of men, leaving that worke only to the Lord; protecting all ſuch in peace and ſafety whom God ſhall raiſe up to doe his mighty work.</p>
+            <byline>By <hi>P.C. V.Z.</hi>
+            </byline>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:187854:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
